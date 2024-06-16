@@ -11,7 +11,7 @@
 
 ![Dev-Lukas GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Lukas2004&show_icons=true&theme=merko)
 
-### 👨🏻‍💻 Tecnologias que eu uso no meu Dia-a-dia!
+### 🌐 Tecnologias que eu uso no meu Dia-a-dia!
 Transformando ideias em código, uma linha de cada vez. Fullstack Developer 🚀 | Apaixonado por tecnologia e inovação 💻
 
 
