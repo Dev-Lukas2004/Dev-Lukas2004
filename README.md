@@ -1,13 +1,9 @@
 ### 👨🏻‍💻 Sobre mim!
 
 📌 ╎ Me chamo Lukas e atualmente sou um estudante que gosta de programar e fazer coisas Inovadoras quando está entediado ou livre.
-
 ✒ ╎ Atualmente estou estudando Java, mas ja tenho experiência em JavaScript, Typescript e Pyhton!
-
 🤖╎ Atualmente criando bots discord usando `Discord.JS` e fazendo alguns projetos da faculdade.
-
 🎓 ╎ Cursando Tecnólogo de Desenvolvimento FullStack na Estácio.
-
 👷 ╎ Desenvolvedor FullStack.
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_lukascoder/)
